@@ -14,7 +14,6 @@ const Footer = () => {
                     <li className='ml-15'><a>Contact</a></li>
                     <li className='ml-15'><a>About</a></li>
                     <li className='ml-15'><a>Terms</a></li>
-                    <li className='ml-15'><a>About</a></li>
                 </ul>
             </div>
             </nav>

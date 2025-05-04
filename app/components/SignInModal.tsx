@@ -34,8 +34,6 @@ const SignInModal = () => {
 
             const data = await res.json()
 
-            console.log(res.ok)
-
             if (res.ok) {
                 setEmail('')
                 setPassword('')
